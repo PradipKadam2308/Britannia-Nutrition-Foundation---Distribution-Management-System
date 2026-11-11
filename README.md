@@ -1,0 +1,2 @@
+# Britannia-Nutrition-Foundation---Distribution-Management-System
+Interactive distribution and inventory dashboards developed for Britannia Nutrition Foundation using Looker Studio. Features include product-wise distribution, stock availability, block coverage, supplier analysis, and Area Coordinator tracking. Screenshots use sample testing data; live data is restricted by organizational confidentiality policies.
